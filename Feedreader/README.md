@@ -10,7 +10,7 @@ This project uses Jasmine to test the application and functionallity of the webp
 
 ## How to Load Application
 
-Load this link into your browser
+Load this link into your browser https://mebylund.github.io/Feedreader/
 
 ## External Libraries Used
 
