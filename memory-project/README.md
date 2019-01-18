@@ -10,7 +10,7 @@ This project allows the user to play a fun memory matching game and inform them 
 
 ## How to Play
 
-Load this link in your browser
+Load this link in your browser https://mebylund.github.io/memory-project/
 
 ## Instructions
 
